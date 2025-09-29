@@ -9,4 +9,5 @@
 |  |
 | ------- |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
+| [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
