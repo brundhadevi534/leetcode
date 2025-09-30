@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
