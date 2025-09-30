@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
+| [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
