@@ -8,6 +8,7 @@
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
