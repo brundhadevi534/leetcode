@@ -11,7 +11,7 @@ class Solution {
         min=nums[i];
         }
         int min1=Math.min(min,max);
-        for(div=1;div<=min1;div++){
+        for(div=1;div<=min;div++){
             if(min%div==0&&max%div==0){
             a=div;
             }
