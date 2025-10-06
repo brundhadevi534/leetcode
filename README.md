@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
@@ -38,6 +39,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -65,5 +67,6 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
