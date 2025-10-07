@@ -9,6 +9,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
+| [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -71,6 +72,7 @@
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
