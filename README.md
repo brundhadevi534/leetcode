@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
@@ -71,6 +72,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -78,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
