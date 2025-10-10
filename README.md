@@ -51,6 +51,7 @@
 | [0058-length-of-last-word](https://github.com/brundhadevi534/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
@@ -110,4 +113,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
