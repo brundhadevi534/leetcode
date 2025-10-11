@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/brundhadevi534/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -135,6 +137,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
