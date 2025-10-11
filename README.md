@@ -61,6 +61,7 @@
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0742-to-lower-case](https://github.com/brundhadevi534/leetcode/tree/master/0742-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
