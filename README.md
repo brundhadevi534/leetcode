@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -50,6 +51,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/brundhadevi534/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
@@ -75,6 +78,7 @@
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
