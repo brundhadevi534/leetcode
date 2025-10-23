@@ -19,6 +19,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/brundhadevi534/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/brundhadevi534/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -97,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/brundhadevi534/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
