@@ -37,6 +37,7 @@
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/brundhadevi534/leetcode/tree/master/0742-to-lower-case) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
