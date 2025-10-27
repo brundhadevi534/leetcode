@@ -38,6 +38,7 @@
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +119,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
