@@ -31,6 +31,7 @@
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -119,6 +120,7 @@
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting
@@ -135,6 +137,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
