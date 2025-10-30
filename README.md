@@ -33,6 +33,7 @@
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/brundhadevi534/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -99,6 +100,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brundhadevi534/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Simulation
 |  |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
 ## Dynamic Programming
