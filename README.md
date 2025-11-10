@@ -43,6 +43,7 @@
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Number Theory
 |  |
@@ -67,6 +68,7 @@
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
