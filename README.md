@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/brundhadevi534/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
