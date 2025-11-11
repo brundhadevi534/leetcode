@@ -12,6 +12,7 @@
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
