@@ -48,6 +48,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
+| [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
@@ -124,6 +125,7 @@
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
+| [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
@@ -138,6 +140,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
