@@ -53,6 +53,7 @@
 | [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
+| [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
@@ -196,6 +197,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
 | [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
