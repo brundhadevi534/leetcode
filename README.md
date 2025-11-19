@@ -11,6 +11,7 @@
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
+| [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -50,6 +51,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
+| [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
@@ -128,6 +130,7 @@
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
+| [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 ## Sorting
 |  |
@@ -192,6 +195,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
