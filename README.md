@@ -215,4 +215,12 @@
 |  |
 | ------- |
 | [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/brundhadevi534/leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/brundhadevi534/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
