@@ -10,6 +10,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
