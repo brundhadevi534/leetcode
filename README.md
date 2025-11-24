@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/brundhadevi534/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -208,6 +209,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
@@ -225,4 +227,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/brundhadevi534/leetcode/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
