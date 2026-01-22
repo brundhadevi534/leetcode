@@ -15,6 +15,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/brundhadevi534/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2028-find-missing-observations](https://github.com/brundhadevi534/leetcode/tree/master/2028-find-missing-observations) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -65,6 +66,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/brundhadevi534/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2028-find-missing-observations](https://github.com/brundhadevi534/leetcode/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/brundhadevi534/leetcode/tree/master/0067-add-binary) |
+| [2028-find-missing-observations](https://github.com/brundhadevi534/leetcode/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Hash Table
