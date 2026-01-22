@@ -20,6 +20,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2491-smallest-even-multiple](https://github.com/brundhadevi534/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/brundhadevi534/leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -75,6 +76,7 @@
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 | [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/brundhadevi534/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3324-split-the-array](https://github.com/brundhadevi534/leetcode/tree/master/3324-split-the-array) |
 | [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
@@ -153,6 +155,7 @@
 | [2028-find-missing-observations](https://github.com/brundhadevi534/leetcode/tree/master/2028-find-missing-observations) |
 | [2058-concatenation-of-array](https://github.com/brundhadevi534/leetcode/tree/master/2058-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/brundhadevi534/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [0347-top-k-frequent-elements](https://github.com/brundhadevi534/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
 | ------- |
