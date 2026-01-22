@@ -61,6 +61,7 @@
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/brundhadevi534/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/brundhadevi534/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -140,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
 ## Simulation
 |  |
@@ -186,6 +188,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/brundhadevi534/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/brundhadevi534/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2892-check-if-array-is-good](https://github.com/brundhadevi534/leetcode/tree/master/2892-check-if-array-is-good) |
 | [3859-maximum-product-of-two-digits](https://github.com/brundhadevi534/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
