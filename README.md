@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0845-longest-mountain-in-array](https://github.com/brundhadevi534/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0932-monotonic-array](https://github.com/brundhadevi534/leetcode/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -105,6 +106,7 @@
 | [0344-reverse-string](https://github.com/brundhadevi534/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/brundhadevi534/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/brundhadevi534/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2634-minimum-common-value](https://github.com/brundhadevi534/leetcode/tree/master/2634-minimum-common-value) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/brundhadevi534/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/brundhadevi534/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [3398-make-a-square-with-the-same-color](https://github.com/brundhadevi534/leetcode/tree/master/3398-make-a-square-with-the-same-color) |
 ## Linked List
 |  |
