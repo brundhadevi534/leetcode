@@ -42,6 +42,7 @@
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/brundhadevi534/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/brundhadevi534/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/brundhadevi534/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/brundhadevi534/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
