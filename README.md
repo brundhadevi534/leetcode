@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/brundhadevi534/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/brundhadevi534/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -114,6 +115,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/brundhadevi534/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/brundhadevi534/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/brundhadevi534/leetcode/tree/master/0067-add-binary) |
@@ -319,4 +321,8 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/brundhadevi534/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
