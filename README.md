@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/brundhadevi534/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/brundhadevi534/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/brundhadevi534/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/brundhadevi534/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/brundhadevi534/leetcode/tree/master/0263-ugly-number) |
@@ -48,6 +49,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/brundhadevi534/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brundhadevi534/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -328,6 +330,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/brundhadevi534/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
