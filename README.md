@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/brundhadevi534/leetcode/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brundhadevi534/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/brundhadevi534/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -301,6 +302,7 @@
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brundhadevi534/leetcode/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/brundhadevi534/leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/brundhadevi534/leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
