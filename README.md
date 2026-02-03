@@ -41,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/brundhadevi534/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/brundhadevi534/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/brundhadevi534/leetcode/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
@@ -304,6 +305,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brundhadevi534/leetcode/tree/master/0118-pascals-triangle) |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/brundhadevi534/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Enumeration
