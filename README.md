@@ -48,6 +48,7 @@
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/brundhadevi534/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/brundhadevi534/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/brundhadevi534/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/brundhadevi534/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/brundhadevi534/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -370,6 +372,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/brundhadevi534/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/brundhadevi534/leetcode/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
