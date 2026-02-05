@@ -44,6 +44,7 @@
 | [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -145,6 +146,7 @@
 | [0014-longest-common-prefix](https://github.com/brundhadevi534/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/brundhadevi534/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/brundhadevi534/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/brundhadevi534/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/brundhadevi534/leetcode/tree/master/0125-valid-palindrome) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/brundhadevi534/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/brundhadevi534/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/brundhadevi534/leetcode/tree/master/0217-contains-duplicate) |
@@ -219,6 +222,7 @@
 | [0016-3sum-closest](https://github.com/brundhadevi534/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/brundhadevi534/leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/brundhadevi534/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/brundhadevi534/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
