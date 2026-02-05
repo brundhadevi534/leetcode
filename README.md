@@ -46,6 +46,7 @@
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/brundhadevi534/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
@@ -318,6 +319,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/brundhadevi534/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brundhadevi534/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/brundhadevi534/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/brundhadevi534/leetcode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Enumeration
