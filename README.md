@@ -51,6 +51,7 @@
 | [0057-insert-interval](https://github.com/brundhadevi534/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/brundhadevi534/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/brundhadevi534/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/brundhadevi534/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/brundhadevi534/leetcode/tree/master/0075-sort-colors) |
@@ -312,6 +313,7 @@
 | [0048-rotate-image](https://github.com/brundhadevi534/leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/brundhadevi534/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/brundhadevi534/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/brundhadevi534/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/brundhadevi534/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/brundhadevi534/leetcode/tree/master/0079-word-search) |
@@ -329,6 +331,7 @@
 | [0053-maximum-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/brundhadevi534/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/brundhadevi534/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/brundhadevi534/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/brundhadevi534/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/brundhadevi534/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/brundhadevi534/leetcode/tree/master/0152-maximum-product-subarray) |
