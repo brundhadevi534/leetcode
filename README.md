@@ -86,6 +86,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/brundhadevi534/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0376-wiggle-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/brundhadevi534/leetcode/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/brundhadevi534/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
@@ -194,6 +195,7 @@
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
@@ -248,6 +250,7 @@
 | [0268-missing-number](https://github.com/brundhadevi534/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/brundhadevi534/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -282,6 +285,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/brundhadevi534/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/brundhadevi534/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -324,6 +328,7 @@
 | [0079-word-search](https://github.com/brundhadevi534/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/brundhadevi534/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/brundhadevi534/leetcode/tree/master/0221-maximal-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/brundhadevi534/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/brundhadevi534/leetcode/tree/master/1791-richest-customer-wealth) |
