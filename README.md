@@ -83,6 +83,7 @@
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/brundhadevi534/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/brundhadevi534/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/brundhadevi534/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/brundhadevi534/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/brundhadevi534/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/brundhadevi534/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/brundhadevi534/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
