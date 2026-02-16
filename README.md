@@ -88,6 +88,7 @@
 | [0377-combination-sum-iv](https://github.com/brundhadevi534/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/brundhadevi534/leetcode/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/brundhadevi534/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
@@ -197,6 +198,7 @@
 | [0287-find-the-duplicate-number](https://github.com/brundhadevi534/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/brundhadevi534/leetcode/tree/master/0436-find-right-interval) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/brundhadevi534/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/brundhadevi534/leetcode/tree/master/1818-minimum-absolute-sum-difference) |
@@ -254,6 +256,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/brundhadevi534/leetcode/tree/master/0436-find-right-interval) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
