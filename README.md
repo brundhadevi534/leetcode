@@ -87,6 +87,7 @@
 | [0376-wiggle-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/brundhadevi534/leetcode/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/brundhadevi534/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
@@ -252,6 +253,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/brundhadevi534/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/brundhadevi534/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/brundhadevi534/leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/brundhadevi534/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/brundhadevi534/leetcode/tree/master/0948-sort-an-array) |
@@ -352,6 +354,7 @@
 | [0376-wiggle-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/brundhadevi534/leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0845-longest-mountain-in-array](https://github.com/brundhadevi534/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
@@ -360,6 +363,7 @@
 | [0045-jump-game-ii](https://github.com/brundhadevi534/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/brundhadevi534/leetcode/tree/master/0055-jump-game) |
 | [0376-wiggle-subsequence](https://github.com/brundhadevi534/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/brundhadevi534/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/brundhadevi534/leetcode/tree/master/0561-array-partition) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/brundhadevi534/leetcode/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Enumeration
