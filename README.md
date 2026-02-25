@@ -165,6 +165,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/brundhadevi534/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/brundhadevi534/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/brundhadevi534/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/brundhadevi534/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/brundhadevi534/leetcode/tree/master/0049-group-anagrams) |
@@ -414,6 +415,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/brundhadevi534/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/brundhadevi534/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/brundhadevi534/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
